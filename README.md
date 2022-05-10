@@ -5,8 +5,11 @@ Within the project we try to manipulate the feeling of stability by use of 1. VR
 
 Motion capture (vicon), EMG (cometa), and force plates (kistler) were used to collect kinematics, muscle activity, and kinetics. 
 
+
 Main scripts:
+
 *m_Calculate_CoP_TwoForcePlates.m - calculates centre of pressure related outcomes from raw force plate inputs
+
 *m_HRX_outcomes - calculates H-reflex related outcomes from EMG data of the soleus
 
 
